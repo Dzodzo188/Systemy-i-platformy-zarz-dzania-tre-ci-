@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9a4b63f0-96ce-4021-a0c1-3b33312b4430/resourceGroups/cdv/providers/Microsoft.Web/sites/adam-cdv",
+    "appService.deploySubpath": "Cdv.Api/publish"
+}
